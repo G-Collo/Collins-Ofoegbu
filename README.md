@@ -32,6 +32,6 @@
 
 ###
 
-<p align="left">A couple facts about me<br><br>- ✝️ Jesus is KING  <br>  <br><br>- 🌱 I’m currently learning Data Analytics with TripleTen  <br>  <br><br>- ⚡ Fun fact: I love to eat and try new foods  <br>  <br><br>- 🏈 Football is my favorite sport  <br>  <br><br>- 🏋️ I also enjoy working out<br><br>Feel free to reach out via Email or LinkedIn!</p>
+<p align="left">A few facts about me<br><br>- ✝️ Jesus is KING  <br>  <br><br>- 🌱 I’m currently learning Data Analytics with TripleTen  <br>  <br><br>- ⚡ Fun fact: I love to eat and try new foods  <br>  <br><br>- 🏈 Football is my favorite sport  <br>  <br><br>- 🏋️ I also enjoy working out<br><br>Feel free to reach out via Email or LinkedIn!</p>
 
 ###
