@@ -5,7 +5,8 @@
 <p align=left> <img src=https://komarev.com/ghpvc/?username=gcollo alt=gcollo /> </p>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=gcollo&show_icons=true&include_all_commits=true)](https://github.com/gcollo/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gcollo&layout=compact)](https://github.com/gcollo/github-readme-stats)
+
+Couple facts about me
 
 - ✝️ Jesus is KING  
   
